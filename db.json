@@ -11,21 +11,6 @@
       {
         "iconClass": "fas fa-envelope",
         "title": "office@kamsolutions.pl",
-      },
-      {
-        "iconClass": "fab fa-twitter",
-        "title": "Twitter",
-        "link": "https://twitter.com/WordPress"
-      },
-      {
-        "iconClass": "fab fa-facebook-f",
-        "title": "Facebook",
-        "link": "https://www.facebook.com/facebook"
-      },
-      {
-        "iconClass": "fab fa-skype",
-        "title": "Skype",
-        "link": "kamsolutions.pl"
       }
     ]
   }
