@@ -13,14 +13,14 @@
       },
       {
         "iconClass": "fas fa-envelope",
-        "title": "office@kamsolutions.pl"
+        "title": "office@kamsolutions.pl",
         "value": null,
         "link": true
       },
       {
         "iconClass": "fab fa-twitter",
         "title": "Twitter",
-        "value": "https://twitter.com/WordPress"
+        "value": "https://twitter.com/WordPress",
         "link": true
       }
     ]
