@@ -7,16 +7,21 @@
     "contacts": [
       {
         "iconClass": "fas fa-phone-alt",
-        "title": "500 345 242"
+        "title": "500 345 242",
+        "value": null,
+        "link": false
       },
       {
         "iconClass": "fas fa-envelope",
         "title": "office@kamsolutions.pl"
+        "value": null,
+        "link": true
       },
       {
         "iconClass": "fab fa-twitter",
         "title": "Twitter",
-        "link": "https://twitter.com/WordPress"
+        "value": "https://twitter.com/WordPress"
+        "link": true
       }
     ]
   }
