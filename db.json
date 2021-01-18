@@ -5,31 +5,31 @@
     },
     "contacts": [
       {
-        "iconClass": "fas fa-phone-alt",
+        "iconName": "fas fa-phone-alt",
         "title": "500 345 242",
         "value": null,
         "link": false
       },
       {
-        "iconClass": "fas fa-envelope",
+        "iconName": "fas fa-envelope",
         "title": "office@kamsolutions.pl",
         "value": null,
         "link": true
       },
       {
-        "iconClass": "fab fa-twitter",
+        "iconName": "fab fa-twitter",
         "title": "Twitter",
         "value": "https://twitter.com/WordPress",
         "link": true
       },
       {
-        "iconClass": "fab fa-facebook-f",
+        "iconName": "fab fa-facebook-f",
         "title": "Facebook",
         "value": "https://www.facebook.com/facebook",
         "link": true
       },
       {
-        "iconClass": "fab fa-skype",
+        "iconName": "fab fa-skype",
         "title": "Skype",
         "value": "kamsolutions.pl",
         "link": true
@@ -50,6 +50,20 @@
         "year": "1991",
         "title": "Title",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis tempus lorem at tempor. Duis interdum nibh vel velit condimentum, sed viverra mauris blandit."
+      }
+    ],
+    "experienceHistory": [
+      {
+        "company": "Google",
+        "period": "2013-2014",
+        "position": "Front-end developer / php progremmer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis tempus lorem at tempor. Duis interdum nibh vel velit condimentum, sed viverra mauris blandit. Nunc iaculis, elit vel aliquam maximus, ligula libero dignissim odio, sit amet tincidunt lacus erat vitae quam."
+      },
+      {
+        "company": "Twitter",
+        "period": "2012",
+        "position": "Web developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis tempus lorem at tempor. Duis interdum nibh vel velit condimentum, sed viverra mauris blandit. Nunc iaculis, elit vel aliquam maximus, ligula libero dignissim odio, sit amet tincidunt lacus erat vitae quam."
       }
     ]
   }
