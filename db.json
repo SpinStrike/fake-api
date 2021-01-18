@@ -1,0 +1,32 @@
+{
+  "Data": {
+    "aboutUs": {
+      "Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis tempus lorem at tempor. Duis interdum nibh vel velit condimentum, sed viverra mauris blandit. Nunc iaculis, elit vel aliquam maximus, ligula libero dignissim odio, sit amet tincidunt lacus erat vitae quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt velit vulputate, porttitor leo sed, bibendum eros. Mauris quis volutpat nisi. Nulla imperdiet lectus a sem imperdiet sagittis. Vivamus non convallis ipsum, at fringilla leo. Vestibulum sed ante non odio gravida vestibulum. Aenean tempus, leo et feugiat faucibus, nisl eros iaculis enim, et eleifend lorem dolor sed tellus. Sed ut nulla finibus, mollis tortor et, accumsan sapien. Integer a enim feugiat, condimentum ex suscipit, efficitur libero. Aenean condimentum neque laoreet quam luctus cursus."
+    },
+    "contacts": [
+      {
+        "iconClass": "fas fa-phone-alt",
+        "title": "500 345 242"
+      },
+      {
+        "iconClass": "fas fa-envelope",
+        "title": "office@kamsolutions.pl",
+      },
+      {
+        "iconClass": "fab fa-twitter",
+        "title": "Twitter",
+        "link": "https://twitter.com/WordPress"
+      },
+      {
+        "iconClass": "fab fa-facebook-f",
+        "title": "Facebook",
+        "link": "https://www.facebook.com/facebook"
+      },
+      {
+        "iconClass": "fab fa-skype",
+        "title": "Skype",
+        "link": "kamsolutions.pl"
+      }
+    ]
+  }
+}
