@@ -22,6 +22,18 @@
         "title": "Twitter",
         "value": "https://twitter.com/WordPress",
         "link": true
+      },
+      {
+        "iconClass": "fab fa-facebook-f",
+        "title": "Facebook",
+        "value": "https://www.facebook.com/facebook",
+        "link": true
+      },
+      {
+        "iconClass": "fab fa-skype",
+        "title": "Skype",
+        "value": "kamsolutions.pl",
+        "link": true
       }
     ]
   }
