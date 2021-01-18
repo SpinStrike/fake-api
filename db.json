@@ -34,6 +34,23 @@
         "value": "kamsolutions.pl",
         "link": true
       }
+    ],
+    "educationHistory": [
+      {
+        "year": "1993",
+        "title": "Title",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis tempus lorem at tempor. Duis interdum nibh vel velit condimentum, sed viverra mauris blandit."
+      },
+      {
+        "year": "1992",
+        "title": "Title",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis tempus lorem at tempor. Duis interdum nibh vel velit condimentum, sed viverra mauris blandit."
+      },
+      {
+        "year": "1991",
+        "title": "Title",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis tempus lorem at tempor. Duis interdum nibh vel velit condimentum, sed viverra mauris blandit."
+      }
     ]
   }
 }
