@@ -103,15 +103,15 @@
         "percentLevel": "70%"
       },
       {
-        "title": "jQuery",
+        "name": "jQuery",
         "percentLevel": "60%"
       },
       {
-        "title": "PHP",
+        "name": "PHP",
         "percentLevel": "40%"
       },
       {
-        "title": "Laravel 2 (framework)",
+        "name": "Laravel 2 (framework)",
         "percentLevel": "20%"
       }
     ]
