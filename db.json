@@ -88,6 +88,28 @@
         "role": "Programmer",
         "link": "somesite.com"
       }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "percentLevel": "100%"
+      },
+      {
+        "name": "CSS",
+        "percentLevel": "70%"
+      },
+      {
+        "title": "jQuery",
+        "percentLevel": "60%"
+      },
+      {
+        "title": "PHP",
+        "percentLevel": "40%"
+      },
+      {
+        "title": "Laravel 2 (framework)",
+        "percentLevel": "20%"
+      }
     ]
   }
 }
