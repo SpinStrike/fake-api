@@ -100,19 +100,19 @@
       },
       {
         "name": "CSS",
-        "percentLevel": "70%"
+        "percentLevel": "75%"
       },
       {
         "name": "jQuery",
-        "percentLevel": "60%"
+        "percentLevel": "35%"
       },
       {
         "name": "PHP",
-        "percentLevel": "40%"
+        "percentLevel": "35%"
       },
       {
         "name": "Laravel 2 (framework)",
-        "percentLevel": "20%"
+        "percentLevel": "10%"
       }
     ]
   }
