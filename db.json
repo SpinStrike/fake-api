@@ -10,14 +10,14 @@
     "contacts": [
       {
         "iconName": "fas fa-phone-alt",
-        "title": "500 345 242",
-        "value": null,
+        "title": null,
+        "value": "500 345 242",
         "link": false
       },
       {
         "iconName": "fas fa-envelope",
-        "title": "office@kamsolutions.pl",
-        "value": null,
+        "title": null,
+        "value": "office@kamsolutions.pl",
         "link": true
       },
       {
