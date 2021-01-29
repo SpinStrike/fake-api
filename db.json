@@ -18,7 +18,7 @@
         "iconName": "fas fa-envelope",
         "title": null,
         "value": "office@kamsolutions.pl",
-        "link": true
+        "link": false
       },
       {
         "iconName": "fab fa-twitter",
